@@ -1,0 +1,152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:17:1-55:12
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0.aar\3228b84b1bb63582d48040c8696dddf6\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\301287c502dc31485d81a4fa95d998e9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:17:1-31:12
+	package
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:18:11-40
+	xmlns:android
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:20:5-22:40
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\301287c502dc31485d81a4fa95d998e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\301287c502dc31485d81a4fa95d998e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:22:9-38
+	android:minSdkVersion
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:21:9-35
+uses-permission#android.permission.CAMERA
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:24:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:26:5-59
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:27:5-69
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:27:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:29:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:30:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:31:22-77
+application
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:33:5-53:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0.aar\3228b84b1bb63582d48040c8696dddf6\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0.aar\3228b84b1bb63582d48040c8696dddf6\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\301287c502dc31485d81a4fa95d998e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\301287c502dc31485d81a4fa95d998e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:37:9-41
+	android:debuggable
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:35:9-34
+	android:icon
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:36:9-39
+	android:allowBackup
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:38:9-45
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:40:13-47
+activity#org.tensorflow.demo.Main2Activity
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:44:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:46:17-68
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:48:27-74
+activity#org.tensorflow.demo.MainActivity
+ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from D:\ASworkspace\TF_Animal_Detect\TF_Animal_Detect\AndroidManifest.xml:51:19-47
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\3cd7243f6b1b816f60391942b950710f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\e77e294b39ad867947462d9c7e53ce71\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\c86bcd79fc076aa18e6314a1943ec5ff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\9a180b0d6204ed401c5dd177b06260d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\dfb13f88018bc34c4918fa4b85800025\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0834a0c0f8592c322744e75ab5031a12\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\94f0d6b075e2f8a38b9a313587512c7a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e0d4fcebbb57531e162a18c191cb2c9c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\xhhh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\30518f12061c639758674a9f6b5acf3f\AndroidManifest.xml:27:13-51

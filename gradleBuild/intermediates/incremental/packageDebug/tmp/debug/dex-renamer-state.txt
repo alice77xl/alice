@@ -1,0 +1,4 @@
+#Mon Jun 25 13:19:02 CST 2018
+base.0=D\:\\ASworkspace\\TF_Animal_Detect\\TF_Animal_Detect\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
